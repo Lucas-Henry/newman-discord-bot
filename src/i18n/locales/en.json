@@ -1,0 +1,145 @@
+{
+  "nav": {
+    "home": "Home",
+    "commands": "Commands",
+    "features": "Features",
+    "support": "Support",
+    "addToDiscord": "Add to Discord"
+  },
+  "hero": {
+    "badge": "In development",
+    "title": "Your ally against fake news on Discord",
+    "subtitle": "Newman is a bot that helps your community verify information, analyze images, and fight misinformation using artificial intelligence.",
+    "cta": {
+      "primary": "Add to Discord",
+      "secondary": "See features"
+    }
+  },
+  "features": {
+    "title": "What does Newman do?",
+    "items": [
+      {
+        "title": "Fact-checking",
+        "description": "Analyzes claims and searches multiple sources to tell if something is true, false, or questionable."
+      },
+      {
+        "title": "Image analysis",
+        "description": "Examines photos and memes, detects manipulations, and explains the context behind the content."
+      },
+      {
+        "title": "Smart search",
+        "description": "Searches the web and evaluates source credibility, always citing where the information came from."
+      },
+      {
+        "title": "Natural conversation",
+        "description": "Answers questions directly, without fluff, remembering context from previous conversations."
+      }
+    ]
+  },
+  "commands": {
+    "title": "Commands",
+    "subtitle": "Simple and straight to the point",
+    "searchPlaceholder": "Search command...",
+    "categories": {
+      "all": "All",
+      "chat": "Chat",
+      "search": "Search",
+      "verification": "Verification",
+      "analysis": "Analysis",
+      "utility": "Utility"
+    },
+    "usage": "Usage",
+    "examples": "Examples",
+    "aliases": "Aliases"
+  },
+  "demo": {
+    "title": "See it in action",
+    "user": "User",
+    "typing": "typing..."
+  },
+  "support": {
+    "title": "Support the project",
+    "subtitle": "Newman is free and open source. If you want to help keep the project alive:",
+    "coffee": {
+      "title": "Buy me a coffee",
+      "description": "Your contribution helps pay for server costs and development.",
+      "button": "Contribute"
+    },
+    "community": {
+      "title": "Community",
+      "description": "Join Discord to ask questions, give suggestions, or just chat.",
+      "discord": "Join Discord",
+      "github": "View on GitHub"
+    },
+    "faq": {
+      "title": "FAQ",
+      "items": [
+        {
+          "question": "How do I add Newman to my server?",
+          "answer": "Click the 'Add to Discord' button on this site. You'll be redirected to Discord to choose your server and grant permissions."
+        },
+        {
+          "question": "Is it free?",
+          "answer": "Yes, completely free. If you want to help with costs, you can contribute via Buy Me a Coffee."
+        },
+        {
+          "question": "Does it work in Portuguese?",
+          "answer": "Yes! Newman was built for Brazilian communities and responds naturally in Portuguese."
+        },
+        {
+          "question": "Is it always accurate?",
+          "answer": "No system is perfect. Newman is a tool to help, but always use critical thinking too."
+        },
+        {
+          "question": "Is my data saved?",
+          "answer": "We only store context from recent conversations to give better answers. Nothing is sold or shared."
+        }
+      ]
+    }
+  },
+  "footer": {
+    "description": "Fact-checking bot for Discord.",
+    "madeBy": "Made by Lucas Henry",
+    "status": "Under active development",
+    "links": {
+      "product": "Product",
+      "commands": "Commands",
+      "features": "Features",
+      "support": "Support",
+      "legal": "Legal",
+      "privacy": "Privacy",
+      "terms": "Terms",
+      "resources": "Links",
+      "github": "GitHub",
+      "documentation": "Docs"
+    }
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated",
+    "content": {
+      "intro": "This policy explains how Newman Bot collects and uses your information.",
+      "sections": [
+        { "title": "What we collect", "content": "We collect only what's necessary: your Discord ID for conversation context, message content when you use the bot, and channel IDs. We don't collect personal data beyond what Discord provides." },
+        { "title": "How we use it", "content": "We use data only to make the bot work: answer your questions, maintain context, and improve the service. We don't sell or share anything." },
+        { "title": "Retention", "content": "We only keep the last 15 messages per user and 20 per channel, temporarily. Inactive data is automatically deleted." },
+        { "title": "Your rights", "content": "You can request deletion of your data at any time. Just stop using the bot and everything is automatically cleaned." },
+        { "title": "Contact", "content": "Questions? Contact Lucas Henry via GitHub or Discord." }
+      ]
+    }
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "lastUpdated": "Last updated",
+    "content": {
+      "intro": "By using Newman Bot, you agree to these terms.",
+      "sections": [
+        { "title": "The service", "content": "Newman is a Discord bot that offers fact-checking, image analysis, web search, and AI chat. The service is provided as-is and may change at any time." },
+        { "title": "Allowed use", "content": "Don't use the bot for illegal activities, spam, exploitation attempts, or to spread misinformation on purpose. Also respect Discord's Terms." },
+        { "title": "Limitations", "content": "Newman provides educational information. We don't guarantee 100% accuracy. Always verify critical information yourself." },
+        { "title": "Liability", "content": "Newman and its creator are not responsible for decisions made based on the bot's information." },
+        { "title": "Contact", "content": "Questions about the terms? Contact Lucas Henry via GitHub or Discord." }
+      ]
+    }
+  }
+}

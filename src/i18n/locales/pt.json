@@ -1,0 +1,175 @@
+{
+  "nav": {
+    "home": "Início",
+    "commands": "Comandos",
+    "features": "Recursos",
+    "support": "Apoiar",
+    "addToDiscord": "Adicionar ao Discord"
+  },
+  "hero": {
+    "badge": "Em desenvolvimento",
+    "title": "Seu aliado contra fake news no Discord",
+    "subtitle": "O Newman é um bot que ajuda sua comunidade a verificar informações, analisar imagens e combater desinformação usando inteligência artificial.",
+    "cta": {
+      "primary": "Adicionar ao Discord",
+      "secondary": "Conheça os recursos"
+    }
+  },
+  "features": {
+    "title": "O que o Newman faz?",
+    "items": [
+      {
+        "title": "Verificação de fatos",
+        "description": "Analisa afirmações e busca em múltiplas fontes pra dizer se algo é verdadeiro, falso ou duvidoso."
+      },
+      {
+        "title": "Análise de imagens",
+        "description": "Examina fotos e memes, detecta manipulações e explica o contexto por trás do conteúdo."
+      },
+      {
+        "title": "Busca inteligente",
+        "description": "Pesquisa na web e avalia a credibilidade das fontes, sempre citando de onde veio a informação."
+      },
+      {
+        "title": "Conversa natural",
+        "description": "Responde perguntas de forma direta, sem enrolação, lembrando do contexto das conversas anteriores."
+      }
+    ]
+  },
+  "commands": {
+    "title": "Comandos",
+    "subtitle": "Simples e direto ao ponto",
+    "searchPlaceholder": "Buscar comando...",
+    "categories": {
+      "all": "Todos",
+      "chat": "Chat",
+      "search": "Busca",
+      "verification": "Verificação",
+      "analysis": "Análise",
+      "utility": "Utilidade"
+    },
+    "usage": "Como usar",
+    "examples": "Exemplos",
+    "aliases": "Atalhos"
+  },
+  "demo": {
+    "title": "Veja na prática",
+    "user": "Usuário",
+    "typing": "digitando..."
+  },
+  "support": {
+    "title": "Apoie o projeto",
+    "subtitle": "O Newman é gratuito e de código aberto. Se quiser ajudar a manter o projeto vivo:",
+    "coffee": {
+      "title": "Me pague um café",
+      "description": "Sua contribuição ajuda a pagar os custos de servidor e desenvolvimento.",
+      "button": "Contribuir"
+    },
+    "community": {
+      "title": "Comunidade",
+      "description": "Entre no Discord pra tirar dúvidas, dar sugestões ou só trocar uma ideia.",
+      "discord": "Entrar no Discord",
+      "github": "Ver no GitHub"
+    },
+    "faq": {
+      "title": "Perguntas frequentes",
+      "items": [
+        {
+          "question": "Como adiciono o Newman no meu servidor?",
+          "answer": "Clica no botão 'Adicionar ao Discord' aqui no site. Você vai ser redirecionado pro Discord pra escolher o servidor e dar as permissões."
+        },
+        {
+          "question": "É de graça?",
+          "answer": "Sim, totalmente gratuito. Se quiser ajudar com os custos, pode contribuir pelo Buy Me a Coffee."
+        },
+        {
+          "question": "Funciona em português?",
+          "answer": "Sim! O Newman foi feito pensando em comunidades brasileiras e responde naturalmente em português."
+        },
+        {
+          "question": "Ele acerta sempre?",
+          "answer": "Não existe sistema perfeito. O Newman é uma ferramenta pra ajudar, mas sempre vale usar o senso crítico junto."
+        },
+        {
+          "question": "Meus dados ficam salvos?",
+          "answer": "Só guardamos o contexto das últimas conversas pra dar respostas melhores. Nada é vendido ou compartilhado."
+        }
+      ]
+    }
+  },
+  "footer": {
+    "description": "Bot de verificação de fatos pra Discord.",
+    "madeBy": "Feito por Lucas Henry",
+    "status": "Em desenvolvimento ativo",
+    "links": {
+      "product": "Produto",
+      "commands": "Comandos",
+      "features": "Recursos",
+      "support": "Apoiar",
+      "legal": "Legal",
+      "privacy": "Privacidade",
+      "terms": "Termos",
+      "resources": "Links",
+      "github": "GitHub",
+      "documentation": "Docs"
+    }
+  },
+  "privacy": {
+    "title": "Política de Privacidade",
+    "lastUpdated": "Atualizado em",
+    "content": {
+      "intro": "Essa política explica como o Newman Bot coleta e usa suas informações.",
+      "sections": [
+        {
+          "title": "O que coletamos",
+          "content": "Coletamos apenas o necessário: seu ID do Discord pra contexto de conversa, o conteúdo das mensagens quando você usa o bot, e IDs de canal. Não coletamos dados pessoais além do que o Discord já fornece."
+        },
+        {
+          "title": "Como usamos",
+          "content": "Usamos os dados só pra fazer o bot funcionar: responder suas perguntas, manter o contexto e melhorar o serviço. Não vendemos nem compartilhamos nada."
+        },
+        {
+          "title": "Retenção",
+          "content": "Guardamos só as últimas 15 mensagens por usuário e 20 por canal, temporariamente. Dados inativos são apagados automaticamente."
+        },
+        {
+          "title": "Seus direitos",
+          "content": "Você pode pedir a exclusão dos seus dados a qualquer momento. É só parar de usar o bot que tudo é limpo automaticamente."
+        },
+        {
+          "title": "Contato",
+          "content": "Dúvidas? Fala com o Lucas Henry pelo GitHub ou Discord."
+        }
+      ]
+    }
+  },
+  "terms": {
+    "title": "Termos de Uso",
+    "lastUpdated": "Atualizado em",
+    "content": {
+      "intro": "Ao usar o Newman Bot, você concorda com esses termos.",
+      "sections": [
+        {
+          "title": "O serviço",
+          "content": "O Newman é um bot de Discord que oferece verificação de fatos, análise de imagens, busca web e chat com IA. O serviço é oferecido como está e pode mudar a qualquer momento."
+        },
+        {
+          "title": "Uso permitido",
+          "content": "Não use o bot pra atividades ilegais, spam, tentativas de exploração ou pra espalhar desinformação de propósito. Respeite também os Termos do Discord."
+        },
+        {
+          "title": "Limitações",
+          "content": "O Newman oferece informações educativas. Não garantimos 100% de precisão. Sempre verifique informações críticas por conta própria."
+        },
+        {
+          "title": "Responsabilidade",
+          "content": "O Newman e seu criador não se responsabilizam por decisões tomadas com base nas informações do bot."
+        },
+        {
+          "title": "Contato",
+          "content": "Dúvidas sobre os termos? Fala com o Lucas Henry pelo GitHub ou Discord."
+        }
+      ]
+    }
+  }
+}
