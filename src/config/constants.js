@@ -1,5 +1,5 @@
 export const DISCORD_INVITE_URL = 'https://discord.com/oauth2/authorize?client_id=1225046668404330496';
-export const GITHUB_URL = 'https://github.com/Lucas-Henry';
+export const GITHUB_URL = 'https://github.com/newman-agent/newman-bot.git';
 export const LINKEDIN_URL = 'https://linkedin.com/in/lucas-henry-6252391a3';
 export const BUY_ME_COFFEE_URL = 'https://buymeacoffee.com/henrylucasx';
 
